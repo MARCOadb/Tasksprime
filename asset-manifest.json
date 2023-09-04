@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tasksprime/static/css/main.6152d96b.css",
+    "main.js": "/Tasksprime/static/js/main.1a15bc22.js",
+    "index.html": "/Tasksprime/index.html",
+    "main.6152d96b.css.map": "/Tasksprime/static/css/main.6152d96b.css.map",
+    "main.1a15bc22.js.map": "/Tasksprime/static/js/main.1a15bc22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6152d96b.css",
+    "static/js/main.1a15bc22.js"
+  ]
+}
